@@ -1,6 +1,6 @@
 # 🎉 Currency Converter Web App 🌍💱
 
-![Currency Converter Preview](https://via.placeholder.com/800x400?text=Project+Preview)
+![Image](https://github.com/user-attachments/assets/c889d8ce-9eca-4a30-8bb4-ee3335d6a1db)
 
 ## 📌 About the Project
 
@@ -19,16 +19,14 @@ This is a **modern and stylish currency converter** that allows users to convert
 - **Frontend:** HTML, CSS, JavaScript
 - **API:** ExchangeRatesAPI (Fetch API for live currency conversion)
 
-## 📸 Screenshots
+## 📸 Preview
 
-📷 _Add a screenshot of your app here_
-
----
+## ![Image](https://github.com/user-attachments/assets/3faf6b41-f811-49b4-88fc-5e51fe190824)
 
 ## ⚙️ How to Run the Project
 
 1️⃣ Clone this repository
 
 ```sh
-git clone https://github.com/your-username/currency-converter.git
+git clone https://github.com/XaXtric7/currency-converter.git
 ```
