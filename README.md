@@ -30,3 +30,14 @@ This is a **modern and stylish currency converter** that allows users to convert
 ```sh
 git clone https://github.com/XaXtric7/currency-converter.git
 ```
+
+## 🔑 API Key Setup
+
+```sh
+const API_KEY = "your-api-key-here";
+const API_URL = `https://api.exchangeratesapi.io/latest?access_key=${API_KEY}`;
+```
+
+## ⚠️ If Api doesn't work?
+
+- Api key has been reset by me.(contact me if you want one..👍)
